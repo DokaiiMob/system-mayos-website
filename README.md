@@ -160,3 +160,4 @@ chmod 644 *.php
 ---
 
 **System.Mayos** - Где технологии встречают творчество! 🚀
+![alt text](https://i.imgur.com/rOVqyfU.jpeg)
